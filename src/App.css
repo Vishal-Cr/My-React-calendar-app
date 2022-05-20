@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('./Assets/cool-background.png'), linear-gradient(rgba(202, 35, 35, 0.5), rgba(0, 0, 0, 0.4));
+  background-size: cover;
+  background-repeat: no-repeat;
+}
